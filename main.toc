@@ -3,12 +3,12 @@
 \contentsline {section}{\numberline {3}Membership}{3}{}%
 \contentsline {section}{\numberline {4}The Executive}{3}{}%
 \contentsline {section}{\numberline {5}Duties of the Executive Members}{4}{}%
-\contentsline {section}{\numberline {6}Ordinary Meetings}{5}{}%
+\contentsline {section}{\numberline {6}Ordinary Meetings}{6}{}%
 \contentsline {section}{\numberline {7}General Meetings}{6}{}%
 \contentsline {section}{\numberline {8}Annual General Meeting}{7}{}%
 \contentsline {section}{\numberline {9}Elections}{8}{}%
 \contentsline {section}{\numberline {10}Alteration to the Constitution}{9}{}%
 \contentsline {section}{\numberline {11}Property and Finances}{9}{}%
-\contentsline {section}{\numberline {12}Dissolution}{9}{}%
+\contentsline {section}{\numberline {12}Dissolution}{10}{}%
 \contentsline {section}{\numberline {13}Inactivity}{10}{}%
 \contentsline {section}{\numberline {14}Recognition}{10}{}%
